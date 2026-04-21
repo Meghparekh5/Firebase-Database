@@ -79,6 +79,6 @@ src/firebase/firebase.js
 * Dashboard analytics
 
 ---
+<img width="1917" height="911" alt="Screenshot 2026-04-21 135337" src="https://github.com/user-attachments/assets/dafb698f-c1ac-45a9-bb1d-ab555c63211d" />
 
-<img width="1919" height="607" alt="Screenshot 2026-04-21 133421" src="https://github.com/user-attachments/assets/cf8fc0af-bf31-426b-84e7-d4faefcd7c4a" />
 
